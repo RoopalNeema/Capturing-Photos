@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="picture">Take a Picture</string>
+    <string name="vedio">Record a Video</string>
+    <string name="Preview">Preview</string>
+</resources>
